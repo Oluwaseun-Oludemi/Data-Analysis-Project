@@ -6,7 +6,6 @@
   - [Data Sources](#data-sources)
   - [Tools](tools)
   - [Data Cleaning/Preparation](data-cleaning/preparation)
-  - [Data Modelling](data-modelling)
   - [Explorative Data Analysis](explorative-data-analysis)
   - [Data Analysis](data-analysis)
   - [Results Findings](#results-findings)
@@ -18,16 +17,15 @@ The objective of this project is to analyze sales data from a retail chain opera
 ### Data Sources
 
 ### Tools
-  - Power Query:
-  - Power BI
+  - Power Query: Power Query was used for data extraction, transformation and loading.
+  - Power BI: Power BI wa used to create calculate the KPIs and build the ineteractive dashboard.
+
 ### Data Cleaning/Preparation
   - Handle missing values
   - Standardize data types
   - Remove duplicates
   - Removing empty rows and columns
-  - Trimming and cleaning each coumns 
-
-### Data Modelling
+  - Trimming and cleaning each coumns
 
 ### Explorative Data Analysis
 This project explored the sales data to answer the following questions:
