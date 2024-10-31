@@ -21,6 +21,11 @@ The objective of this project is to analyze sales data from a retail chain opera
   - Power Query:
   - Power BI
 ### Data Cleaning/Preparation
+  - Handle missing values
+  - Standardize data types
+  - Remove duplicates
+  - Removing empty rows and columns
+  - Trimming and cleaning each coumns 
 
 ### Data Modelling
 
