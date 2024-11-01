@@ -5,7 +5,7 @@
   - [Project Overview](#project-overview)
   - [Data Sources](#data-sources)
   - [Tools](tools)
-  - [Data Cleaning/Preparation](data-cleaning/preparation)
+  - [Data Cleaning/Prearation](datacleaning/preparation)
   - [Explorative Data Analysis](explorative-data-analysis)
   - [Data Analysis](data-analysis)
   - [Results & Findings](#results-&-findings)
