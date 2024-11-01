@@ -38,14 +38,15 @@ This project explored the sales data to answer the following questions:
 
 ### Data Analysis
 Below are the DAX functions used in calculating the KPIs.
+
 ``` TOTAL QTY = SUM('Updated Amazon Sales'[Quantity])
     NO OF TRANSACTIONS = COUNTROWS('Updated Amazon Sales')
     REVENUE = SUMX('Updated Amazon Sales', 'Updated Amazon Sales'[Selling Price] * 'Updated Amazon Sales'[Quantity] + 'Updated Amazon         Sales'[Tax 5%])
     COGS = SUMX('Updated Amazon Sales', 'Updated Amazon Sales'[Unit price] * 'Updated Amazon Sales'[Quantity])
    PROFIT = [REVENUE]-[COGS]
     PROFIT MARGIN = DIVIDE([PROFIT], [REVENUE],0)
-    AVG RATING = AVERAGE('Updated Amazon Sales'[Rating])```
-
+    AVG RATING = AVERAGE('Updated Amazon Sales'[Rating])
+```
 
 ### Result & Findings
 The following insights can guide decision-making and high-light trends in customer behavior, Product Performance, and Branch Efficiency
