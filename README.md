@@ -17,6 +17,7 @@
 The objective of this project is to analyze sales data from a retail chain operating three branches in three cities using an inetractive dashboard. This analysis seeks to uncover key insights, including customer demographics, sales perfomance across product line and overall trend in pricing terms and purchasing behaviours.
 
 ### Data Sources
+Updated Amazon Sales01
 
 ### Tools
   - Power Query: Power Query was used for data extraction, transformation and loading.
